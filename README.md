@@ -159,8 +159,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)  
 Santiago Arboleda Londoño - [Github](https://github.com/monoprosito) / [Twitter](https://twitter.com/msarboledal)  
-Pablo Sánchez Monsalve - [Github](https://github.com/Jackeado) / [Twitter](https://twitter.com/jackeado)
-Rotimi Adebowale Owolabi - [Github](https://github.com/rohteemie) / [Twitter](https://twitter.com/rohteemie)
+Pablo Sánchez Monsalve - [Github](https://github.com/Jackeado) / [Twitter](https://twitter.com/jackeado) 
+Rotimi Adebowale Owolabi - [Github](https://github.com/rohteemie) / [Twitter](https://twitter.com/rohteemie) 
 Anointed-Faith Afolayan - 
 
 Second part of Airbnb: Joann Vuong
